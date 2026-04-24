@@ -1,16 +1,70 @@
-## Hi there 👋
+# 👋 Hi, I'm [Yogesh Solanki]
 
-<!--
-**yogesh-crew/yogesh-crew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Frontend Developer
 
-Here are some ideas to get you started:
+I specialize in building responsive, user-friendly, and high-performance web applications.
+Passionate about creating seamless user experiences and clean, maintainable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 🎯 Focused on modern frontend development
+* ⚡ Love turning UI/UX designs into real products
+* 📚 Continuously learning new technologies and best practices
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+* HTML5
+* CSS3 
+* JavaScript (ES6+)
+* TypeScript
+
+### ⚙️ Frameworks & Libraries
+
+* React.js
+* Next.js
+* Vue.js
+* Pinia
+* Redux / Zustand
+
+### 🎨 Styling & UI
+
+* Tailwind CSS
+* Bootstrap
+* Material UI
+
+### 🔧 Tools & Platforms
+
+* Git & GitHub
+* VS Code
+* Figma
+* Chrome DevTools
+
+---
+
+
+## 📈 What I Focus On
+
+* Responsive Design 📱
+* Performance Optimization ⚡
+* Cross-Browser Compatibility 🌐
+* Clean & Scalable Code 🧩
+
+---
+
+## 🤝 Let's Connect
+
+* 📧 Email: yogesh@crew.inc
+
+---
+
+## ⭐ Fun Fact
+
+I enjoy transforming complex problems into simple, beautiful UI solutions.
+
+---
